@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@type-challenges/utils@^0.1.1":
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/@type-challenges/utils/-/utils-0.1.1.tgz#18ce289fb84caf1c13eee211226dbf2bc6195ed3"
+  integrity sha512-A7ljYfBM+FLw+NDyuYvGBJiCEV9c0lPWEAdzfOAkb3JFqfLl0Iv/WhWMMARHiRKlmmiD1g8gz/507yVvHdQUYA==
+
 "@types/chai@^4.2.15":
   version "4.2.15"
   resolved "https://registry.yarnpkg.com/@types/chai/-/chai-4.2.15.tgz#b7a6d263c2cecf44b6de9a051cf496249b154553"
